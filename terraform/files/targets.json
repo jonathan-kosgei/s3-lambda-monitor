@@ -1,0 +1,5 @@
+[ 
+    { "Id": "1", 
+    "Arn": "arn:aws:lambda:us-west-2:449752743692:function:ebs-backup-worker" 
+    } 
+]
